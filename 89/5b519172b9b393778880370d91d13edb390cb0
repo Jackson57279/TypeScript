@@ -1,0 +1,59 @@
+rust/crates/jsnum/src/jsnum.rs
+  s_c760161dda2d19::t_8d9668ee7f8317 136-138
+go.work
+  s_cfec6cbf2f5a9c::t_57fc279b6bcd99 4
+rust/bench/DRIVER-CONTRACT.md
+  s_c760161dda2d19::t_dac589c46a977f 1-66
+rust/crates/bench-harness/Cargo.toml
+  s_c760161dda2d19::t_e4bad638f52332 1-16
+rust/crates/tspath/src/path.rs
+  s_c760161dda2d19::t_444b81a98f3a65 614-616
+rust/crates/bench-harness/src/main.rs
+  s_c760161dda2d19::t_662d654abb287d 1-42,44-72
+  s_c760161dda2d19::t_80649dc95c2240 43
+rust/PORTING-NOTES.md
+  s_c760161dda2d19::t_d78bf0ee32d6f3 61-73
+rust/crates/bench-harness/src/micro.rs
+  s_c760161dda2d19::t_a156f89a2ec311 374-376
+  s_c760161dda2d19::t_0bc35a7a49f00f 1-20,22-373,377-381,383-408
+  s_c760161dda2d19::t_0d71359208081f 21
+  s_c760161dda2d19::t_e1d8dfc19fa10e 382
+rust/scripts/bench-micro.sh
+  s_c760161dda2d19::t_7c6047dc7cb18b 1-86,89-149
+  s_c760161dda2d19::t_c6fb0a7aaf4450 87-88
+rust/bench/go-driver/main.go
+  s_cfec6cbf2f5a9c::t_d1f9ea374f1c1d 67-71
+  s_cfec6cbf2f5a9c::t_72783b44d1b180 278-280
+  s_cfec6cbf2f5a9c::t_010e8b314f1712 281-282
+  s_cfec6cbf2f5a9c::t_13f2d00e0e897b 1-66,72-100,108-277,283-339,341-406
+  s_cfec6cbf2f5a9c::t_c3dc717d094767 101-107
+  s_cfec6cbf2f5a9c::t_ae189aeeeeec13 340
+rust/bench/go-driver/go.mod
+  s_cfec6cbf2f5a9c::t_19a9e0ef5bee97 1-13
+rust/BENCHMARKS.md
+  s_c760161dda2d19::t_98b46f921903b9 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "895b519172b9b393778880370d91d13edb390cb0",
+  "prompts": {},
+  "sessions": {
+    "s_c760161dda2d19": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "e48660fc-43c1-451f-9234-7c7ba6128c6a",
+        "model": "glm-5.3"
+      },
+      "human_author": "Jackson57279 <jackson@email.zapdev.link>"
+    },
+    "s_cfec6cbf2f5a9c": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "27c96afd-1ca7-404b-a02e-f002877860de",
+        "model": "glm-5.3"
+      },
+      "human_author": "Jackson57279 <jackson@email.zapdev.link>"
+    }
+  }
+}
