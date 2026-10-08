@@ -1,0 +1,17 @@
+[package]
+name = "tsc-spanmap"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+
+[lints]
+workspace = true
+
+[dependencies]
+# spanmap.go imports tsc/internal/core (TextPos/TextRange).
+tsc-core = { path = "../core" }
+# spanmap.go imports tsc/internal/json (Marshal/Unmarshal of the tuple form).
+tsc-json = { path = "../json" }
+# The json facade is serde-based; Unmarshal/Marshal expose serde_json::Error.
+serde_json = { workspace = true }

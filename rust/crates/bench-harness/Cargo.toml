@@ -1,0 +1,23 @@
+[package]
+name = "bench-harness"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish = false
+
+[[bin]]
+name = "tsc-bench"
+path = "src/main.rs"
+
+[lints]
+workspace = true
+
+[dependencies]
+tsc-tspath = { path = "../tspath" }
+tsc-jsnum = { path = "../jsnum" }
+tsc-core = { path = "../core" }
+tsc-ast = { path = "../ast" }
+tsc-parser = { path = "../parser" }
+serde = { workspace = true, features = ["derive"] }
+serde_json = { workspace = true }
