@@ -1,0 +1,20 @@
+rust/tools/gen-ast/src/main.rs
+  s_c760161dda2d19::t_e32dca169d870f 1891,1895,1909
+  s_c760161dda2d19::t_aea74f233bb6bb 1551-1557
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "96ca8be733ecfd82f4a0997673ba3edaad9d7953",
+  "prompts": {},
+  "sessions": {
+    "s_c760161dda2d19": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "e48660fc-43c1-451f-9234-7c7ba6128c6a",
+        "model": "glm-5.3"
+      },
+      "human_author": "Jackson57279 <jackson@email.zapdev.link>"
+    }
+  }
+}
