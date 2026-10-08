@@ -1,0 +1,19 @@
+rust/tools/gen-ast/src/main.rs
+  s_b77f1a0cd58547::t_22fe0aa660d8d5 2233-2236
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "1e12106d0a22bafec6fd578205e5113825d8ddf6",
+  "prompts": {},
+  "sessions": {
+    "s_b77f1a0cd58547": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "e4f890bf-9b66-41d9-809a-723047667588",
+        "model": "glm-5.3"
+      },
+      "human_author": "Jackson57279 <jackson@email.zapdev.link>"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+rust/crates/core/src/bfs.rs
+  s_1f512027b74766::t_2c9627ef0e4c1f 54-58,65
+rust/crates/core/src/text.rs
+  s_1f512027b74766::t_0c09cc6ed4a3e8 34-36
+rust/BENCHMARKS.md
+  s_c760161dda2d19::t_8c300b9a12e576 33-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "1fc96b5c96a206e6597a40fbe7dd861822f67181",
+  "prompts": {},
+  "sessions": {
+    "s_1f512027b74766": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "9860c567-e1d1-4edb-b738-8273459c25c6",
+        "model": "glm-5.3"
+      },
+      "human_author": "Jackson57279 <jackson@email.zapdev.link>"
+    },
+    "s_c760161dda2d19": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "e48660fc-43c1-451f-9234-7c7ba6128c6a",
+        "model": "glm-5.3"
+      },
+      "human_author": "Jackson57279 <jackson@email.zapdev.link>"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+rust/crates/ast/src/ids.rs
+  s_5bfa9200c8ba57::t_45646461b89423 77-86
+rust/PORTING-NOTES.md
+  s_5bfa9200c8ba57::t_46184fec5aa1ec 154-244
+rust/crates/ast/src/symbol.rs
+  s_5bfa9200c8ba57::t_5afb1bef2a5da4 240-243
+rust/crates/ast/src/functionflags.rs
+  s_5bfa9200c8ba57::t_0f5962fad72289 48
+rust/tools/gen-ast/src/main.rs
+  s_5bfa9200c8ba57::t_52312911c62021 1817-1820
+  s_5bfa9200c8ba57::t_5eddf6863cf345 186-188
+  s_5bfa9200c8ba57::t_1f1058646d4f7a 949,961
+  s_5bfa9200c8ba57::t_a4f4e7f9024967 2036
+rust/crates/ast/src/parseoptions.rs
+  s_5bfa9200c8ba57::t_4d8fa7a855c01b 24
+  s_5bfa9200c8ba57::t_021ba1f19de10b 44-45,50
+  s_5bfa9200c8ba57::t_7a8e063670314e 140
+  s_5bfa9200c8ba57::t_7ce31c821d8255 103,106-107
+  s_5bfa9200c8ba57::t_291df5c41be8ea 137-139,143-147,149,152,154
+rust/crates/ast/src/tokenflags.rs
+  s_5bfa9200c8ba57::t_72dbcc3007c88d 52,55,60,63,67,71,74
+  s_5bfa9200c8ba57::t_1157dcc7968a68 99
+rust/crates/ast/src/deepclone.rs
+  s_5bfa9200c8ba57::t_c9173f17c4297a 214-221,236
+  s_5bfa9200c8ba57::t_144b1c56ba4650 75
+  s_5bfa9200c8ba57::t_d1a20a011e099e 73
+  s_5bfa9200c8ba57::t_e1df33858d4364 99
+  s_5bfa9200c8ba57::t_8fc862c6046328 256-260,265
+  s_5bfa9200c8ba57::t_a104a21bc36f44 158
+  s_5bfa9200c8ba57::t_273ba71b4fb3f8 160
+  s_5bfa9200c8ba57::t_3f69db8e13eeea 98
+  s_5bfa9200c8ba57::t_743c8405d07d84 128-135
+  s_5bfa9200c8ba57::t_542cca470850ea 165,184
+rust/crates/ast/src/symbolflags.rs
+  s_5bfa9200c8ba57::t_7dee721694a985 180
+  s_5bfa9200c8ba57::t_998a4e7b04548d 178-179
+rust/crates/ast/src/diagnostic.rs
+  s_5bfa9200c8ba57::t_4f8d4e0f42be47 106-108
+  s_5bfa9200c8ba57::t_afe1885dc3eb96 29
+  s_5bfa9200c8ba57::t_fa095f7203923f 128-132
+rust/M3-DISPATCH.md
+  s_c760161dda2d19::t_61b264f4a24b39 1-99
+rust/crates/ast/src/precedence.rs
+  s_5bfa9200c8ba57::t_a3893ed04db5f5 219
+rust/crates/ast/src/source_file.rs
+  s_5bfa9200c8ba57::t_6b5374983103e2 735,747-750
+  s_5bfa9200c8ba57::t_2c2c7f420e18b7 660
+  s_5bfa9200c8ba57::t_7a6839e021ea01 774
+  s_5bfa9200c8ba57::t_ca5bf8735bb222 329-332
+  s_5bfa9200c8ba57::t_c53e1edd646456 83
+  s_5bfa9200c8ba57::t_627efcafa32a36 48
+  s_5bfa9200c8ba57::t_f410aac8865574 556-567,569,572-573
+  s_5bfa9200c8ba57::t_1dafd64118001d 657-659
+  s_5bfa9200c8ba57::t_3e63fe2cf69436 552
+  s_5bfa9200c8ba57::t_f2a8a4df4328a1 271-272,275
+  s_5bfa9200c8ba57::t_cdd111575e9590 56
+  s_5bfa9200c8ba57::t_5d25bc19586bd1 150
+  s_5bfa9200c8ba57::t_a632940e1ac9f9 568
+rust/crates/ast/src/visitor.rs
+  s_5bfa9200c8ba57::t_e8b63a99618ab9 107
+  s_5bfa9200c8ba57::t_008852e8aff949 540-542
+  s_5bfa9200c8ba57::t_70af59f51e7904 559,564
+  s_5bfa9200c8ba57::t_716ae80c62c68a 373
+  s_5bfa9200c8ba57::t_df0383a07bb1a0 409-412
+  s_5bfa9200c8ba57::t_c36150c6a8201d 429
+rust/crates/ast/src/lib.rs
+  s_5bfa9200c8ba57::t_e54cb74f25bce8 207-215
+rust/crates/ast/src/nodeflags.rs
+  s_5bfa9200c8ba57::t_666df17b0050e1 155
+rust/crates/ast/src/utilities.rs
+  s_5bfa9200c8ba57::t_ce257f7c711c7c 153
+  s_5bfa9200c8ba57::t_dd16fb6c07ff38 50-52
+  s_5bfa9200c8ba57::t_c724a9d6be7283 100,102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "2698f31b896ccab6d3f997a96905b8a54d5e99c6",
+  "prompts": {},
+  "sessions": {
+    "s_5bfa9200c8ba57": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "cdab2874-38d4-417e-9335-2045e2b7e941",
+        "model": "glm-5.3"
+      },
+      "human_author": "Jackson57279 <jackson@email.zapdev.link>"
+    },
+    "s_c760161dda2d19": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "e48660fc-43c1-451f-9234-7c7ba6128c6a",
+        "model": "glm-5.3"
+      },
+      "human_author": "Jackson57279 <jackson@email.zapdev.link>"
+    }
+  }
+}
