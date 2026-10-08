@@ -1,0 +1,25 @@
+rust/tools/gen-options/data/README.md
+  s_0b06a59b2c74b0::t_480ace2b9a7b31 1-54
+rust/tools/gen-options/Cargo.toml
+  s_0b06a59b2c74b0::t_095ca7bc98f248 1-13
+rust/tools/gen-options/src/main.rs
+  s_0b06a59b2c74b0::t_12b35c884a355e 1-960
+rust/tools/gen-options/data/options-model.json
+  s_0b06a59b2c74b0::t_92f6c9b8c387c6 1-246
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "ecb2cbba50619a50172857c1fd23a2cc58f0d7b4",
+  "prompts": {},
+  "sessions": {
+    "s_0b06a59b2c74b0": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "c19964a0-b107-4f88-ad0d-c939469159fb",
+        "model": "glm-5.3"
+      },
+      "human_author": "Jackson57279 <jackson@email.zapdev.link>"
+    }
+  }
+}
