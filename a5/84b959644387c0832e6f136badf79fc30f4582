@@ -1,0 +1,40 @@
+rust/tools/gen-ast/src/main.rs
+  s_5bfa9200c8ba57::t_2a3a2a20c6693a 163-165
+  s_5bfa9200c8ba57::t_804f4522e212ed 1638-1639
+  s_5bfa9200c8ba57::t_9c905848eb7909 733
+  s_5bfa9200c8ba57::t_d4cfe7aba8f59a 690-696,711
+  s_5bfa9200c8ba57::t_64dabbc688729e 1071-1087
+  s_5bfa9200c8ba57::t_139d12b1219efc 1543-1637,1640-1675,1680-1690,1692-1702,1705,1707-1713
+  s_5bfa9200c8ba57::t_58f2efce70a8e9 1892-1931,1942-1958,1962-1966,1970-1978,1981-1984,1987,1989-1998
+  s_5bfa9200c8ba57::t_a2770a9655ea7d 1102
+  s_5bfa9200c8ba57::t_29facf6e6008ee 1860-1861
+  s_5bfa9200c8ba57::t_6c0a6a8110760c 2096
+  s_5bfa9200c8ba57::t_d8f11d383f5a5b 1676-1679
+  s_5bfa9200c8ba57::t_57c535158e1239 1691,1703-1704,1706
+  s_5bfa9200c8ba57::t_13e2eca316ba65 1039-1041
+  s_5bfa9200c8ba57::t_87ad804e57758e 1800-1803,1808-1813,1819-1821,1823,1827,1836-1859,1862-1871
+  s_5bfa9200c8ba57::t_071a96c331b730 2055-2056,2060-2065,2070,2074,2083-2095,2097-2159
+  s_5bfa9200c8ba57::t_ce14884dd6cd97 99-103
+  s_5bfa9200c8ba57::t_6f36b93c7eb633 1720-1724,1726-1730,1734
+  s_5bfa9200c8ba57::t_3cffd1191a698e 1959-1961,1967-1969
+rust/crates/ast/Cargo.toml
+  s_5bfa9200c8ba57::t_13101e6a92edd2 10-13
+rust/crates/ast/src/lib.rs
+  s_5bfa9200c8ba57::t_ddf6ddd7d4a06a 7-8,10-23,26-29,31-41,44-47,49-59,64-107,109-142,145-157,162,168-189,191,198-211,213-217,222,229-271,274-328,362-373
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "a584b959644387c0832e6f136badf79fc30f4582",
+  "prompts": {},
+  "sessions": {
+    "s_5bfa9200c8ba57": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "cdab2874-38d4-417e-9335-2045e2b7e941",
+        "model": "glm-5.3"
+      },
+      "human_author": "Jackson57279 <jackson@email.zapdev.link>"
+    }
+  }
+}
