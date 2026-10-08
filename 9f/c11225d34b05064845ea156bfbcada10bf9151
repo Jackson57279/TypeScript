@@ -1,0 +1,52 @@
+rust/crates/core/Cargo.toml
+  s_0b06a59b2c74b0::t_20d86d67ff4443 14-16
+rust/tools/gen-options/src/main.rs
+  s_0b06a59b2c74b0::t_2a144225b172c7 345
+  s_0b06a59b2c74b0::t_91b77098cbe685 736
+  s_0b06a59b2c74b0::t_0ca0aa82c47987 56
+  s_0b06a59b2c74b0::t_cbbc2b784e8787 24
+  s_0b06a59b2c74b0::t_5bc11fb3240b31 60
+  s_0b06a59b2c74b0::t_12b84fb7375443 854,858
+  s_0b06a59b2c74b0::t_cf4b72aee4d59a 213-217
+  s_0b06a59b2c74b0::t_67433707e37ae8 74
+  s_0b06a59b2c74b0::t_e9aff79bf54e58 346-353,355
+  s_0b06a59b2c74b0::t_94112d95688b1d 713-719,722
+  s_0b06a59b2c74b0::t_6c468aeb19281a 45
+  s_0b06a59b2c74b0::t_80daba6d7041c8 86-87,89
+  s_0b06a59b2c74b0::t_b0f5058444e3d1 445
+  s_0b06a59b2c74b0::t_882930e5629e2b 548
+  s_0b06a59b2c74b0::t_8d5f01257aaba2 77
+  s_0b06a59b2c74b0::t_902ea60c99fc51 737-742
+  s_0b06a59b2c74b0::t_97693112bf4960 810
+  s_0b06a59b2c74b0::t_706ca7f5e46652 468
+rust/crates/core/src/lib.rs
+  s_0b06a59b2c74b0::t_a22239335a9858 3-4,9,15
+rust/crates/core/src/compileroptions.rs
+  s_0b06a59b2c74b0::t_b0967d9f989c0b 597-600
+  s_0b06a59b2c74b0::t_26488495af101b 293-296,298-301,312-315,335-338
+  s_0b06a59b2c74b0::t_5559bdd2d574a1 541-544,553-556
+  s_0b06a59b2c74b0::t_8ac452e0011865 1-196,201-208,210-292,297,302-311,316-334,339-347,351-353,360-369,374-403,408,410,413-442,444,451-533,535-540,545-552,557-596,601-606,608-609
+  s_0b06a59b2c74b0::t_2d75961bc17a8f 404-407
+  s_0b06a59b2c74b0::t_ac499bbd80fc71 197-200
+  s_0b06a59b2c74b0::t_0aa996ef58eb95 348-350,354-359
+  s_0b06a59b2c74b0::t_d5cbf73f933b41 607
+  s_0b06a59b2c74b0::t_10d45819b33273 370-373
+  s_0b06a59b2c74b0::t_98461cfa8d9527 409,411-412
+  s_0b06a59b2c74b0::t_14895417f3cc13 443,445-450
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "9fc11225d34b05064845ea156bfbcada10bf9151",
+  "prompts": {},
+  "sessions": {
+    "s_0b06a59b2c74b0": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "c19964a0-b107-4f88-ad0d-c939469159fb",
+        "model": "glm-5.3"
+      },
+      "human_author": "Jackson57279 <jackson@email.zapdev.link>"
+    }
+  }
+}
