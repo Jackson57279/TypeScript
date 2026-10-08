@@ -1,0 +1,67 @@
+rust/crates/tspath/src/typed_paths_test.rs
+  s_c760161dda2d19::t_7e9510c85b112a 672-675
+  s_c760161dda2d19::t_2d8f2771353f8c 9-10
+  s_c760161dda2d19::t_f56bc44fab0a7d 20-23
+rust/tools/gen-ast/src/main.rs
+  s_d7f88ab1bc1446::t_5a69473a702ba6 1-16,19-94,96,98-105,107-126,128,130,132,134-153,155,157-316,318-320,322-375,377-379,382-630,632-633,635,639-657,659-665,679-686,688-707,709-952,954-955,957-1011,1014-1089,1093-1153,1157,1180-1184,1188-1274,1278,1286-1311,1314-1483,1485-1498,1502-1619,1635-1636,1640-1742,1744-1761,1763-1868
+  s_d7f88ab1bc1446::t_c1f40d0ebcfb4e 380-381
+  s_d7f88ab1bc1446::t_a89845b2090a5e 658
+  s_d7f88ab1bc1446::t_d5de9d65e2b813 708
+  s_d7f88ab1bc1446::t_6663e6e542cc24 1312
+  s_d7f88ab1bc1446::t_44ee7821112d61 1313
+  s_d7f88ab1bc1446::t_f7dfc3e0b8a68c 1090-1092
+  s_d7f88ab1bc1446::t_d9033b20825a96 1275-1277
+  s_d7f88ab1bc1446::t_feda4723faa2bc 1743
+  s_d7f88ab1bc1446::t_e27551fb1ed529 1499-1501
+  s_d7f88ab1bc1446::t_2fc7bc2d5267a7 1762
+  s_d7f88ab1bc1446::t_5dc74c0d1ad3b6 376
+  s_d7f88ab1bc1446::t_d97d9b055c4394 127,129,131,133
+  s_d7f88ab1bc1446::t_06222672bc4c5f 106
+  s_d7f88ab1bc1446::t_71c513377212b6 317,321
+  s_d7f88ab1bc1446::t_a40b4b3b1e856c 154,156
+  s_d7f88ab1bc1446::t_27eefd588e5995 17-18
+  s_d7f88ab1bc1446::t_375eb5c4beefb1 636
+  s_d7f88ab1bc1446::t_c583c678cb8ae5 666-678,687
+  s_d7f88ab1bc1446::t_f6b0048577c90e 953,956
+  s_d7f88ab1bc1446::t_7a86557cad97e7 631,634,637-638
+  s_d7f88ab1bc1446::t_021c9736bee7fb 1168-1170
+  s_d7f88ab1bc1446::t_ff1a9c72b0d79a 1279-1285
+  s_d7f88ab1bc1446::t_38d97a1fdc5429 1484
+  s_d7f88ab1bc1446::t_9c8d3c8fe6a24e 1012-1013
+  s_d7f88ab1bc1446::t_483af01858381c 95,97
+  s_d7f88ab1bc1446::t_834a98aef40c91 1620-1634,1637-1639
+  s_d7f88ab1bc1446::t_611303cc303764 1154-1156,1158-1167,1171-1179,1185-1187
+rust/crates/ast/Cargo.toml
+  s_d7f88ab1bc1446::t_c57605308c4a21 8-10
+rust/tools/gen-ast/Cargo.toml
+  s_d7f88ab1bc1446::t_86fea349a7efbd 5
+rust/crates/ast/src/lib.rs
+  s_d7f88ab1bc1446::t_9faf20a197e9ff 125,127
+  s_d7f88ab1bc1446::t_5a1d8320a245cd 2-124,126,128-144
+rust/crates/tspath/src/lib.rs
+  s_c760161dda2d19::t_1db572853457bb 7-12,14-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "35352378fb34d958935fffa0b1c19eca4329ceb0",
+  "prompts": {},
+  "sessions": {
+    "s_c760161dda2d19": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "e48660fc-43c1-451f-9234-7c7ba6128c6a",
+        "model": "glm-5.3"
+      },
+      "human_author": "Jackson57279 <jackson@email.zapdev.link>"
+    },
+    "s_d7f88ab1bc1446": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "b6e64096-1e7b-41d6-a97e-35f5adace472",
+        "model": "glm-5.3"
+      },
+      "human_author": "Jackson57279 <jackson@email.zapdev.link>"
+    }
+  }
+}
